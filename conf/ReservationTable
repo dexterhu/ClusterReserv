@@ -1,0 +1,24 @@
+# Reservation table
+
+# userlist is important, otherwise I don't know the section names below. 
+# i.e. each user with reservation will have a section, those registered user but without reservation
+# won't be in this list
+
+userlist = hyhu
+
+
+[ hyhu ] 
+nodelist = si001e,si002e,si003e,si004e,
+starttime = 20110410
+endtime = 20110417
+
+#[ sdi ] 
+#nodelist = se005,se006,se007,se008
+#starttime = 20110410
+#endtime = 20110419
+#
+#[ wdzhang ] 
+#nodelist = se001,se002,se003,se004,
+#starttime = 20110410
+#endtime = 20110419
+

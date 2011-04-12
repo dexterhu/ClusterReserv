@@ -1,0 +1,16 @@
+# The registered user list
+
+userlist = hyhu,sdi,wdzhang
+
+[ hyhu ] 
+username = hyhu
+email = hyhu@cs.hku.hk
+
+# The Second user
+[ wdzhang ] 
+username = wdzhang
+email = wdzhang@cs.hku.hk
+
+[ sdi ]
+username = sdi
+email = sdi@cs.hku.hk
