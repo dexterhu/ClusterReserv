@@ -1,9 +1,16 @@
-Installation
+Installation:
+
+
+Todo:
+1. Email notification
+2. SSH login welcome message configuration as a kind reminder when user logs in.
+3. Add the itself as a cron job to be run daily
+4. Ubuntu/Fedora Packaging
+5. First time configuration: 
+   cluster node list, reservation/availability web interface, 
+   time table database, user registration web interface
 
 How to use:
 
-
-Authors:
-Dexter H. Hu hyhu@cs.hku.hk
 
 
